@@ -7,4 +7,4 @@ return(
 
 }
 
-export default Inde
+export default Index
